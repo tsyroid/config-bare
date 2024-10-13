@@ -1,5 +1,5 @@
 ## README - ~/.dotfiles/config (branch: main)
-## REPO: tsyroid/config-core
+## REPO: tsyroid/config-bare
 
 ### Notes
 
@@ -9,5 +9,3 @@ Base `.config/` module designed for:
 
 (b) base framework to build another specialty config from
 
-* TODO: should probably think about building a package list to
-  supplement the apps used in this framework.

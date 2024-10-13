@@ -1,0 +1,9 @@
+# ripgrep config file
+# .config/rgrc
+
+--hidden
+--no-ignore
+--color=always
+--max-columns=150
+--max-columns-preview
+--smart-case

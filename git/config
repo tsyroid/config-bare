@@ -1,0 +1,46 @@
+# vim: ft=gitconfig
+# ~/.gitconfig
+
+[user]
+	name = Taz
+	email = tsyroid@gmail.com
+
+[core]
+    excludesfile = ~/.config/git/ignore
+	editor = nvim
+
+[init]
+	defaultBranch = main
+
+[commit]
+	verbose = true
+
+[push]
+    default = current
+
+[rebase]
+    autoSquash = true
+
+[submodule]
+    recurse = true
+
+# [credential]
+#   helper = osxkeychain
+
+[credential]
+	helper = manager
+	credentialStore = plaintext
+	helper = 
+	helper = /usr/bin/git-credential-manager
+
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+
+[github]
+    user = tsyroid
+
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process

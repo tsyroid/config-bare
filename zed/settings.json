@@ -1,0 +1,72 @@
+// ~/.config/zed/settings.json
+//
+// https://zed.dev/docs/configuring-zed
+//
+// Zed's default settings are available from the
+// command palette (F1): `zed: Open Default Settings`.
+
+{
+  "assistant": {
+    "version": "2",
+    "default_model": {
+      "provider": "ollama",
+      "model": "codellama:latest"
+    }
+  },
+
+  "language_models": {
+    "ollama": {
+      "api_url": "http://localhost:11434"
+    }
+  },
+
+  // fonts
+  "ui_font_family": "Terminess Nerd Font Mono",
+  "ui_font_size": 21,
+  "buffer_font_family": "Terminess Nerd Font Mono",
+  "buffer_font_size": 22,
+  "buffer_line_height": { "custom": 1.25},
+
+  // UI
+  "cursor_blink": false,
+  "vim_mode": true,
+  "relative_line_numbers": true,
+  "scrollbar": { "show": "never" },
+  "tab_bar": { "show_nav_history_buttons": true },
+  "toolbar": { "breadcrumbs": false, "quick_actions": false },
+  "format_on_save": "on",
+
+  "git": {
+    "inline_blame": {
+      "enabled": true
+    }
+  },
+
+  "centered_layout": {
+    "left_padding": 0,
+    "right_padding": 0
+  },
+
+  "soft_wrap": "editor_width",
+
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "Ayu Dark"
+  },
+
+  "tabs": {
+    "git_status": true,
+    "file_icons": true
+  },
+
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  },
+
+  "journal": {
+    "path": "~/.wdir",
+    "hour_format": "hour24"
+  }
+}

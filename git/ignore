@@ -1,0 +1,20 @@
+node_modules/
+temp/
+tmp/
+_*_/
+
+Public/
+Music/
+Desktop/
+Downloads/
+Applications/
+
+# dots
+.DS_Store
+.bundle
+.gem/
+.cargo/
+nvim/
+
+*debug*
+*cache*

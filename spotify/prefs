@@ -1,0 +1,15 @@
+auth.refresh_token="{\"tsyroid\":{\"auth_blob\":@57356c5077667541483469444e48442b747163663633424c41465a48697154716e6a4c49693356483662612b672b454a454f455a7444565636527932615a447469715a3169347768506d54314f4441496757564b4a65426d70714e644a557a6b31792f6942793142466e4a4d686663746e2b4b5846673961706e54737665317250513969444a6852676f614435395459485537686b437a47796753324c4a775853485a534f755733593664516a52796b596f586a3968463042336a53634b554246337a78634461577170734574716533626c2b442b673d3d,\"device_id\":\"40c893bf9c564ed28249ce903301f7ab\",\"username\":\"tsyroid\"}}"
+autologin.blob="hQJlwu9294asxS9G3Dj6DJlR5rXjZEa7gTjugESSCHVg8fc3NyB0xYcaRRolQ6//HkoHDJ8q2WSgqQ68/o0za7xYCQG6eVSCnkLCThfPT5NeWmkCZIVbdtBLIYeVWyN95cWwrt+lZpayZ1Q4obfaqmSiwF58sOAKp4UWZjZtq+IcjgB9yeTnw5b4ehXT0Oro3OCVl7R/+jN2GDlJo7ev+kvuq+t4L9UFY6QouzQSu97iYGmEPoiI9kmsdvEl4X56zl00yU+stsB+2/q9FYSenF5a80l64dxXMWvwuVkKHao="
+autologin.canonical_username="tsyroid"
+autologin.saved_credentials="{\"tsyroid\":[\"tsyroid\",\"hQJlwu9294asxS9G3Dj6DJlR5rXjZEa7gTjugESSCHVg8fc3NyB0xYcaRRolQ6//HkoHDJ8q2WSgqQ68/o0za7xYCQG6eVSCnkLCThfPT5NeWmkCZIVbdtBLIYeVWyN95cWwrt+lZpayZ1Q4obfaqmSiwF58sOAKp4UWZjZtq+IcjgB9yeTnw5b4ehXT0Oro3OCVl7R/+jN2GDlJo7ev+kvuq+t4L9UFY6QouzQSu97iYGmEPoiI9kmsdvEl4X56zl00yU+stsB+2/q9FYSenF5a80l64dxXMWvwuVkKHao=\"]}"
+es.send-on-startup=true
+core.clock_delta=28
+autologin.username="tsyroid"
+app.window.position.saved=true
+app.window.position.height=1398
+app.window.position.y=36
+storage.last-location="/home/taz/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=1401
+app.window.position.x=6
+app.last-launched-version="1.2.47.364.gf06e5cee"

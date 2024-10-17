@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "browsers.extension.enabled": true,
+  "security.autolock.minutes": 60,
+  "app.zoomLevel": 150,
+  "authTags": {
+    "app.zoomLevel": "pSYxSemzLAdK16xOaf6ZWXaKSeL7bmU431aqdk7VLHk",
+    "browsers.extension.enabled": "821/9HKxrDggL47QOcYvTxltYzeluyG9Bl9oDfXO1KY",
+    "security.autolock.minutes": "oH+rvDYt5CE34HykwROQu0Fj3Fjg91DEGy5kRZBYm3Y"
+  }
+}

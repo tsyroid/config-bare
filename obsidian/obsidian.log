@@ -1,0 +1,25 @@
+2024-10-16 22:05:26 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-10-16 22:05:26 Checking for update using Github
+2024-10-16 22:05:26 Success.
+2024-10-16 22:05:26 Latest version is 1.7.4
+2024-10-16 22:05:26 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian-1.7.4.asar.gz
+2024-10-16 22:05:28 Verifying hash & signature. Size= 8056043
+2024-10-16 22:05:28 Saving file
+2024-10-16 22:05:28 Update complete.
+2024-10-16 23:05:26 Checking for update using Github
+2024-10-16 23:05:26 Success.
+2024-10-16 23:05:26 Latest version is 1.7.4
+2024-10-16 23:05:26 An update is already downloaded.
+2024-10-17 00:05:26 Checking for update using Github
+2024-10-17 00:05:26 Success.
+2024-10-17 00:05:26 Latest version is 1.7.4
+2024-10-17 00:05:26 An update is already downloaded.
+2024-10-17 01:05:26 Checking for update using Github
+2024-10-17 01:05:26 Success.
+2024-10-17 01:05:26 Latest version is 1.7.4
+2024-10-17 01:05:26 An update is already downloaded.
+2024-10-17 01:44:41 Loading updated app package /home/taz/.config/obsidian/obsidian-1.7.4.asar
+2024-10-17 01:44:41 Checking for update using Github
+2024-10-17 01:44:41 Success.
+2024-10-17 01:44:41 Latest version is 1.7.4
+2024-10-17 01:44:41 App is up to date.

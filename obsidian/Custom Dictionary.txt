@@ -1,0 +1,22 @@
+1Password
+DL
+DL'd
+TODO
+chsh
+coreutils
+cuz
+eza
+fd
+fzf
+homebrew
+neovim
+npm
+ripgrep
+rsync
+starship
+sudo
+terminess
+ttf
+yazi
+zoxide
+checksum_v1 = a65ea8391ab396a1d02839b05a1a85a9

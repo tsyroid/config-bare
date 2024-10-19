@@ -24,17 +24,19 @@
 [submodule]
     recurse = true
 
+# -- MACOS --
 # [credential]
 #   helper = osxkeychain
 
-[credential]
-	helper = manager
-	credentialStore = plaintext
-	helper = 
-	helper = /usr/bin/git-credential-manager
-
-[credential "https://dev.azure.com"]
-	useHttpPath = true
+# -- LINUX --
+# [credential]
+# 	helper = manager
+# 	credentialStore = plaintext
+# 	helper = 
+# 	helper = /usr/bin/git-credential-manager
+#
+# [credential "https://dev.azure.com"]
+# 	useHttpPath = true
 
 [github]
     user = tsyroid

@@ -8,6 +8,7 @@ set -Ux EDITOR nvim
 
 # Path
 fish_add_path $HOME/.local/bin
+fish_add_path /opt/homebrew/bin
 
 # General aliases
 alias c clear
